@@ -332,6 +332,25 @@ strong{
     
 }
 
+.order1 > span{
+    width: 88px;
+    height: 21px;
+    border: 1px solid black;
+    font-size: 11px;
+    /* position: absolute; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #565656;
+    color: white;
+}
+
+.order1{
+    display: flex;
+    justify-content: start;
+    
+}
+
 .detail{
     width: 180px;
     padding: 12px 10px 4px;
